@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+
+#div1 {
+    background-color:darkblue;
+}
+
+#div2 {
+    background-color: darkblue;
+}
+#textBox {
+    color: black; 
+    background-color: lightblue;
+    align-self: center;
+    text-align: center;
+}
